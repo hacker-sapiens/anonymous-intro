@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /root/anonymous-intro/
+/root
 mpv 2004.mp4
-
 exit
